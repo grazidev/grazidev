@@ -1,7 +1,7 @@
 ### Olá pessoal 👋
 
 ###### Sobre a Grazi:
-1 ano de experiência no desenvolvimento de projetos com o uso de tecnologias Mobile, Web, automações.
+Experiência no desenvolvimento de projetos com o uso de tecnologias Mobile e Web.
 
 ### Detalhes:
 
