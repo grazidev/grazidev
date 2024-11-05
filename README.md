@@ -1,7 +1,11 @@
 ### Olá pessoal 👋
 
 ###### Sobre a Grazi:
-Experiência no desenvolvimento de projetos Mobile e Web.
+👋 Sou uma entusiasta de programação!
+🚀 Atualmente aprendendo e explorando o mundo do código.
+💻 Focada em Python, JavaScript, HTML e CSS.
+🌱 Sempre em busca de aprender e melhorar!
+📚 Curiosa e apaixonada por tecnologia...
 
 ### Detalhes:
 
